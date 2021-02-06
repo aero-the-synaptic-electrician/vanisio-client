@@ -1,4 +1,3 @@
-
 // ==UserScript==
 // @name         Axon client for Vanis.io - BETA
 // @version      1.0.0
