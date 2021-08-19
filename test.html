@@ -48,7 +48,7 @@
              }
          
              async function getAndLoadDependencies() {
-                 const names = ["vendor.js"];
+                 const names = ["vendor.js", "main.js"];
          
                  for (let name of names) {
                      let data = fetch(`${baseUrl}/js/${name}`)
